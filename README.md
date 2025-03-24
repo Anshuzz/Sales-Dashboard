@@ -17,3 +17,4 @@ The **Tableau Sales Performance Dashboard** is an interactive and data-driven vi
 - **CSV & Database Integration** – Supports both file-based and SQL-based data sources  
 
 ---
+![Uploading image.png…]()
